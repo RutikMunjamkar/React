@@ -1,0 +1,21 @@
+#heading{
+    color: red;
+}
+#box{
+    border:2px black solid;
+    background-color: aqua;
+    height: 300px;
+    width: 300px;
+}
+#box1{
+    border:2px black solid;
+    background: blue;
+    height: 80%;
+    width: 40%;
+}
+#box2{
+    border:2px black solid;
+    background: red;
+    height: 80%;
+    width: 40%;
+}
